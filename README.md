@@ -15,7 +15,7 @@
          }
          .phone{
              position: absolute;
-             left: 600;
+             left: 800;
              top:110;
              font-family: cursive;
          }
